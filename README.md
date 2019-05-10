@@ -1,6 +1,8 @@
-This is the source code for the Indivi project.  
+# Indivi
+A React client side application for generating reports for participants in clinical trials, created by the [UZH Center for Gerontology](https://www.zfg.uzh.ch/en.html)
 
------
+---
+
 Run/build Indivi
 
 1) In order to build or run the project:
@@ -15,7 +17,7 @@ Run/build Indivi
 
 Production build: The npm run build is used to create a production build that can be put on a web server (e.g., via uploading to FTP).
 
------
+---
 
 Python configuration
 
@@ -30,7 +32,7 @@ use the following command before running npm install:
 
  npm config set python /usr/bin/python
 
------
+---
 
 The Indvi project aims at delivering personalized feedback to participants of psychological studies in an understandable, visual and ethical way. 
 
@@ -42,5 +44,3 @@ This project was developped as a Master thesis.
 
 Created by:   
 Florian Fischer   
-florian.fischer2@uzh.ch   
-11-611-985   
